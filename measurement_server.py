@@ -9,7 +9,7 @@ logging.config.fileConfig("logging.config", disable_existing_loggers=False)
 logger = logging.getLogger("server")
 
 logger.info("Starting Server")
-server_port = 8080
+server_port = 12345
 
 
 class RestHandler(BaseHTTPRequestHandler):

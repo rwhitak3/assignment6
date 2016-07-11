@@ -270,3 +270,476 @@
 2016-07-11 16:32:42,171 - server - INFO - Path = /area/1/number_locations
 2016-07-11 16:32:42,171 - server - DEBUG - Area id passed in 1
 2016-07-11 16:32:42,171 - server - DEBUG - Sending Data [[3]]
+2016-07-11 17:21:44,048 - server - INFO - Starting Server
+2016-07-11 17:23:02,490 - server - INFO - Received Request from ('127.0.0.1', 55049)
+2016-07-11 17:23:02,491 - server - INFO - Path = /area/3/average_measurement
+2016-07-11 17:23:02,492 - server - DEBUG - Area id passed in 3
+2016-07-11 17:23:02,493 - server - DEBUG - Sending Data [[61.77813528637446]]
+2016-07-11 17:23:02,500 - server - INFO - Received Request from ('127.0.0.1', 55050)
+2016-07-11 17:23:02,501 - server - INFO - Path = /area/7/average_measurement
+2016-07-11 17:23:02,501 - server - DEBUG - Area id passed in 7
+2016-07-11 17:23:02,502 - server - DEBUG - Sending Data [[null]]
+2016-07-11 17:23:02,504 - server - INFO - Received Request from ('127.0.0.1', 55051)
+2016-07-11 17:23:02,504 - server - INFO - Path = /area
+2016-07-11 17:23:02,504 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 17:23:02,506 - server - INFO - Received Request from ('127.0.0.1', 55052)
+2016-07-11 17:23:02,507 - server - INFO - Path = /area/3/category
+2016-07-11 17:23:02,507 - server - DEBUG - Area id passed in 3
+2016-07-11 17:23:02,507 - server - DEBUG - Sending Data [[32, "East", "Areas that are in the east"]]
+2016-07-11 17:23:02,509 - server - INFO - Received Request from ('127.0.0.1', 55053)
+2016-07-11 17:23:02,509 - server - INFO - Path = /area/3/location
+2016-07-11 17:23:02,509 - server - DEBUG - Area id passed in 3
+2016-07-11 17:23:02,509 - server - DEBUG - Sending Data [[16, "Town center", 310, 3], [17, "University", 320, 3], [18, "Mall", 330, 3], [19, "Airport", 350, 3]]
+2016-07-11 17:23:02,512 - server - INFO - Received Request from ('127.0.0.1', 55054)
+2016-07-11 17:23:02,512 - server - INFO - Path = /area/3/number_locations
+2016-07-11 17:23:02,513 - server - DEBUG - Area id passed in 3
+2016-07-11 17:23:02,513 - server - DEBUG - Sending Data [[4]]
+2016-07-11 17:23:02,515 - server - INFO - Received Request from ('127.0.0.1', 55055)
+2016-07-11 17:23:02,515 - server - INFO - Path = /location/18/measurement
+2016-07-11 17:23:02,515 - server - DEBUG - Location id passed in 18
+2016-07-11 17:23:02,523 - server - INFO - Received Request from ('127.0.0.1', 55056)
+2016-07-11 17:23:02,523 - server - INFO - Path = /area
+2016-07-11 17:23:02,523 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 17:23:02,524 - server - INFO - Received Request from ('127.0.0.1', 55057)
+2016-07-11 17:23:02,524 - server - INFO - Path = /area/3/category
+2016-07-11 17:23:02,525 - server - DEBUG - Area id passed in 3
+2016-07-11 17:23:02,525 - server - DEBUG - Sending Data [[32, "East", "Areas that are in the east"]]
+2016-07-11 17:23:02,527 - server - INFO - Received Request from ('127.0.0.1', 55058)
+2016-07-11 17:23:02,528 - server - INFO - Path = /area/3/location
+2016-07-11 17:23:02,529 - server - DEBUG - Area id passed in 3
+2016-07-11 17:23:02,538 - server - DEBUG - Sending Data [[16, "Town center", 310, 3], [17, "University", 320, 3], [18, "Mall", 330, 3], [19, "Airport", 350, 3]]
+2016-07-11 17:23:02,542 - server - INFO - Received Request from ('127.0.0.1', 55059)
+2016-07-11 17:23:02,542 - server - INFO - Path = /location/18/measurement
+2016-07-11 17:23:02,543 - server - DEBUG - Location id passed in 18
+2016-07-11 17:27:54,665 - server - INFO - Starting Server
+2016-07-11 17:27:59,687 - server - INFO - Received Request from ('127.0.0.1', 55060)
+2016-07-11 17:27:59,687 - server - INFO - Path = /area/3/average_measurement
+2016-07-11 17:27:59,688 - server - DEBUG - Area id passed in 3
+2016-07-11 17:27:59,689 - server - DEBUG - Sending Data [61.77813528637446]
+2016-07-11 17:27:59,691 - server - INFO - Received Request from ('127.0.0.1', 55061)
+2016-07-11 17:27:59,691 - server - INFO - Path = /area/7/average_measurement
+2016-07-11 17:27:59,691 - server - DEBUG - Area id passed in 7
+2016-07-11 17:27:59,692 - server - DEBUG - Sending Data [null]
+2016-07-11 17:27:59,693 - server - INFO - Received Request from ('127.0.0.1', 55062)
+2016-07-11 17:27:59,693 - server - INFO - Path = /area
+2016-07-11 17:27:59,693 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 17:27:59,694 - server - INFO - Received Request from ('127.0.0.1', 55063)
+2016-07-11 17:27:59,694 - server - INFO - Path = /area/3/category
+2016-07-11 17:27:59,694 - server - DEBUG - Area id passed in 3
+2016-07-11 17:27:59,695 - server - DEBUG - Sending Data [[32, "East", "Areas that are in the east"]]
+2016-07-11 17:27:59,696 - server - INFO - Received Request from ('127.0.0.1', 55064)
+2016-07-11 17:27:59,697 - server - INFO - Path = /area/3/location
+2016-07-11 17:27:59,697 - server - DEBUG - Area id passed in 3
+2016-07-11 17:27:59,698 - server - DEBUG - Sending Data [[16, "Town center", 310, 3], [17, "University", 320, 3], [18, "Mall", 330, 3], [19, "Airport", 350, 3]]
+2016-07-11 17:27:59,699 - server - INFO - Received Request from ('127.0.0.1', 55065)
+2016-07-11 17:27:59,699 - server - INFO - Path = /area/3/number_locations
+2016-07-11 17:27:59,699 - server - DEBUG - Area id passed in 3
+2016-07-11 17:27:59,700 - server - DEBUG - Sending Data [4]
+2016-07-11 17:27:59,703 - server - INFO - Received Request from ('127.0.0.1', 55066)
+2016-07-11 17:27:59,703 - server - INFO - Path = /location/18/measurement
+2016-07-11 17:27:59,703 - server - DEBUG - Location id passed in 18
+2016-07-11 17:27:59,706 - server - INFO - Received Request from ('127.0.0.1', 55067)
+2016-07-11 17:27:59,706 - server - INFO - Path = /area
+2016-07-11 17:27:59,706 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 17:27:59,707 - server - INFO - Received Request from ('127.0.0.1', 55068)
+2016-07-11 17:27:59,707 - server - INFO - Path = /area/3/category
+2016-07-11 17:27:59,708 - server - DEBUG - Area id passed in 3
+2016-07-11 17:27:59,709 - server - DEBUG - Sending Data [[32, "East", "Areas that are in the east"]]
+2016-07-11 17:27:59,710 - server - INFO - Received Request from ('127.0.0.1', 55069)
+2016-07-11 17:27:59,710 - server - INFO - Path = /area/3/location
+2016-07-11 17:27:59,710 - server - DEBUG - Area id passed in 3
+2016-07-11 17:27:59,710 - server - DEBUG - Sending Data [[16, "Town center", 310, 3], [17, "University", 320, 3], [18, "Mall", 330, 3], [19, "Airport", 350, 3]]
+2016-07-11 17:27:59,711 - server - INFO - Received Request from ('127.0.0.1', 55070)
+2016-07-11 17:27:59,711 - server - INFO - Path = /location/18/measurement
+2016-07-11 17:27:59,712 - server - DEBUG - Location id passed in 18
+2016-07-11 17:28:59,286 - server - INFO - Starting Server
+2016-07-11 17:29:04,568 - server - INFO - Received Request from ('127.0.0.1', 55072)
+2016-07-11 17:29:04,569 - server - INFO - Path = /area/3/average_measurement
+2016-07-11 17:29:04,570 - server - DEBUG - Area id passed in 3
+2016-07-11 17:29:04,570 - server - DEBUG - Sending Data 61.77813528637446
+2016-07-11 17:29:04,572 - server - INFO - Received Request from ('127.0.0.1', 55073)
+2016-07-11 17:29:04,572 - server - INFO - Path = /area/7/average_measurement
+2016-07-11 17:29:04,572 - server - DEBUG - Area id passed in 7
+2016-07-11 17:29:04,572 - server - DEBUG - Sending Data null
+2016-07-11 17:29:04,574 - server - INFO - Received Request from ('127.0.0.1', 55074)
+2016-07-11 17:29:04,574 - server - INFO - Path = /area
+2016-07-11 17:29:04,574 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 17:29:04,579 - server - INFO - Received Request from ('127.0.0.1', 55075)
+2016-07-11 17:29:04,579 - server - INFO - Path = /area/3/category
+2016-07-11 17:29:04,579 - server - DEBUG - Area id passed in 3
+2016-07-11 17:29:04,580 - server - DEBUG - Sending Data [[32, "East", "Areas that are in the east"]]
+2016-07-11 17:29:04,590 - server - INFO - Received Request from ('127.0.0.1', 55076)
+2016-07-11 17:29:04,591 - server - INFO - Path = /area/3/location
+2016-07-11 17:29:04,591 - server - DEBUG - Area id passed in 3
+2016-07-11 17:29:04,591 - server - DEBUG - Sending Data [[16, "Town center", 310, 3], [17, "University", 320, 3], [18, "Mall", 330, 3], [19, "Airport", 350, 3]]
+2016-07-11 17:29:04,602 - server - INFO - Received Request from ('127.0.0.1', 55077)
+2016-07-11 17:29:04,603 - server - INFO - Path = /area/3/number_locations
+2016-07-11 17:29:04,603 - server - DEBUG - Area id passed in 3
+2016-07-11 17:29:04,603 - server - DEBUG - Sending Data 4
+2016-07-11 17:29:04,616 - server - INFO - Received Request from ('127.0.0.1', 55078)
+2016-07-11 17:29:04,621 - server - INFO - Path = /location/18/measurement
+2016-07-11 17:29:04,621 - server - DEBUG - Location id passed in 18
+2016-07-11 17:29:04,649 - server - INFO - Received Request from ('127.0.0.1', 55079)
+2016-07-11 17:29:04,649 - server - INFO - Path = /area
+2016-07-11 17:29:04,650 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 17:29:04,663 - server - INFO - Received Request from ('127.0.0.1', 55080)
+2016-07-11 17:29:04,663 - server - INFO - Path = /area/3/category
+2016-07-11 17:29:04,663 - server - DEBUG - Area id passed in 3
+2016-07-11 17:29:04,663 - server - DEBUG - Sending Data [[32, "East", "Areas that are in the east"]]
+2016-07-11 17:29:04,673 - server - INFO - Received Request from ('127.0.0.1', 55081)
+2016-07-11 17:29:04,673 - server - INFO - Path = /area/3/location
+2016-07-11 17:29:04,673 - server - DEBUG - Area id passed in 3
+2016-07-11 17:29:04,674 - server - DEBUG - Sending Data [[16, "Town center", 310, 3], [17, "University", 320, 3], [18, "Mall", 330, 3], [19, "Airport", 350, 3]]
+2016-07-11 17:29:04,675 - server - INFO - Received Request from ('127.0.0.1', 55082)
+2016-07-11 17:29:04,675 - server - INFO - Path = /location/18/measurement
+2016-07-11 17:29:04,675 - server - DEBUG - Location id passed in 18
+2016-07-11 17:32:12,044 - server - INFO - Starting Server
+2016-07-11 17:32:14,977 - server - INFO - Received Request from ('127.0.0.1', 55099)
+2016-07-11 17:32:14,977 - server - INFO - Path = /area/3/average_measurement
+2016-07-11 17:32:14,978 - server - DEBUG - Area id passed in 3
+2016-07-11 17:32:14,978 - server - DEBUG - Sending Data 61.77813528637446
+2016-07-11 17:32:14,983 - server - INFO - Received Request from ('127.0.0.1', 55100)
+2016-07-11 17:32:14,983 - server - INFO - Path = /area/7/average_measurement
+2016-07-11 17:32:14,983 - server - DEBUG - Area id passed in 7
+2016-07-11 17:32:14,984 - server - DEBUG - Sending Data null
+2016-07-11 17:32:14,985 - server - INFO - Received Request from ('127.0.0.1', 55101)
+2016-07-11 17:32:14,986 - server - INFO - Path = /area
+2016-07-11 17:32:14,986 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 17:32:14,987 - server - INFO - Received Request from ('127.0.0.1', 55102)
+2016-07-11 17:32:14,987 - server - INFO - Path = /area/3/category
+2016-07-11 17:32:14,987 - server - DEBUG - Area id passed in 3
+2016-07-11 17:32:14,988 - server - DEBUG - Sending Data [[32, "East", "Areas that are in the east"]]
+2016-07-11 17:32:14,989 - server - INFO - Received Request from ('127.0.0.1', 55103)
+2016-07-11 17:32:14,989 - server - INFO - Path = /area/3/location
+2016-07-11 17:32:14,989 - server - DEBUG - Area id passed in 3
+2016-07-11 17:32:14,989 - server - DEBUG - Sending Data [[16, "Town center", 310, 3], [17, "University", 320, 3], [18, "Mall", 330, 3], [19, "Airport", 350, 3]]
+2016-07-11 17:32:14,990 - server - INFO - Received Request from ('127.0.0.1', 55104)
+2016-07-11 17:32:14,991 - server - INFO - Path = /area/3/number_locations
+2016-07-11 17:32:14,991 - server - DEBUG - Area id passed in 3
+2016-07-11 17:32:14,991 - server - DEBUG - Sending Data 4
+2016-07-11 17:32:14,993 - server - INFO - Received Request from ('127.0.0.1', 55105)
+2016-07-11 17:32:14,993 - server - INFO - Path = /location/18/measurement
+2016-07-11 17:32:14,993 - server - DEBUG - Location id passed in 18
+2016-07-11 17:32:14,998 - server - INFO - Received Request from ('127.0.0.1', 55106)
+2016-07-11 17:32:14,998 - server - INFO - Path = /area
+2016-07-11 17:32:14,998 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 17:32:15,000 - server - INFO - Received Request from ('127.0.0.1', 55107)
+2016-07-11 17:32:15,000 - server - INFO - Path = /area/3/category
+2016-07-11 17:32:15,000 - server - DEBUG - Area id passed in 3
+2016-07-11 17:32:15,001 - server - DEBUG - Sending Data [[32, "East", "Areas that are in the east"]]
+2016-07-11 17:32:15,002 - server - INFO - Received Request from ('127.0.0.1', 55108)
+2016-07-11 17:32:15,002 - server - INFO - Path = /area/3/location
+2016-07-11 17:32:15,002 - server - DEBUG - Area id passed in 3
+2016-07-11 17:32:15,002 - server - DEBUG - Sending Data [[16, "Town center", 310, 3], [17, "University", 320, 3], [18, "Mall", 330, 3], [19, "Airport", 350, 3]]
+2016-07-11 17:32:15,004 - server - INFO - Received Request from ('127.0.0.1', 55109)
+2016-07-11 17:32:15,004 - server - INFO - Path = /location/18/measurement
+2016-07-11 17:32:15,004 - server - DEBUG - Location id passed in 18
+2016-07-11 17:38:08,659 - server - INFO - Starting Server
+2016-07-11 17:38:11,874 - server - INFO - Received Request from ('127.0.0.1', 55125)
+2016-07-11 17:38:11,874 - server - INFO - Path = /area/3/average_measurement
+2016-07-11 17:38:11,875 - server - DEBUG - Area id passed in 3
+2016-07-11 17:38:11,876 - server - DEBUG - Sending Data 61.77813528637446
+2016-07-11 17:38:11,878 - server - INFO - Received Request from ('127.0.0.1', 55126)
+2016-07-11 17:38:11,878 - server - INFO - Path = /area/7/average_measurement
+2016-07-11 17:38:11,878 - server - DEBUG - Area id passed in 7
+2016-07-11 17:38:11,878 - server - DEBUG - Sending Data null
+2016-07-11 17:38:11,881 - server - INFO - Received Request from ('127.0.0.1', 55127)
+2016-07-11 17:38:11,881 - server - INFO - Path = /area
+2016-07-11 17:38:11,882 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 17:38:11,890 - server - INFO - Received Request from ('127.0.0.1', 55128)
+2016-07-11 17:38:11,890 - server - INFO - Path = /area/3/category
+2016-07-11 17:38:11,890 - server - DEBUG - Area id passed in 3
+2016-07-11 17:38:11,890 - server - DEBUG - Sending Data [[32, "East", "Areas that are in the east"]]
+2016-07-11 17:38:11,902 - server - INFO - Received Request from ('127.0.0.1', 55129)
+2016-07-11 17:38:11,902 - server - INFO - Path = /area/3/location
+2016-07-11 17:38:11,902 - server - DEBUG - Area id passed in 3
+2016-07-11 17:38:11,902 - server - DEBUG - Sending Data [[16, "Town center", 310, 3], [17, "University", 320, 3], [18, "Mall", 330, 3], [19, "Airport", 350, 3]]
+2016-07-11 17:38:11,907 - server - INFO - Received Request from ('127.0.0.1', 55130)
+2016-07-11 17:38:11,907 - server - INFO - Path = /area/3/number_locations
+2016-07-11 17:38:11,907 - server - DEBUG - Area id passed in 3
+2016-07-11 17:38:11,908 - server - DEBUG - Sending Data 4
+2016-07-11 17:38:11,919 - server - INFO - Received Request from ('127.0.0.1', 55131)
+2016-07-11 17:38:11,920 - server - INFO - Path = /location/18/measurement
+2016-07-11 17:38:11,920 - server - DEBUG - Location id passed in 18
+2016-07-11 17:38:11,928 - server - INFO - Received Request from ('127.0.0.1', 55132)
+2016-07-11 17:38:11,928 - server - INFO - Path = /area
+2016-07-11 17:38:11,928 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 17:38:11,931 - server - INFO - Received Request from ('127.0.0.1', 55133)
+2016-07-11 17:38:11,931 - server - INFO - Path = /area/3/category
+2016-07-11 17:38:11,931 - server - DEBUG - Area id passed in 3
+2016-07-11 17:38:11,931 - server - DEBUG - Sending Data [[32, "East", "Areas that are in the east"]]
+2016-07-11 17:38:11,946 - server - INFO - Received Request from ('127.0.0.1', 55134)
+2016-07-11 17:38:11,947 - server - INFO - Path = /area/3/location
+2016-07-11 17:38:11,947 - server - DEBUG - Area id passed in 3
+2016-07-11 17:38:11,947 - server - DEBUG - Sending Data [[16, "Town center", 310, 3], [17, "University", 320, 3], [18, "Mall", 330, 3], [19, "Airport", 350, 3]]
+2016-07-11 17:38:11,955 - server - INFO - Received Request from ('127.0.0.1', 55135)
+2016-07-11 17:38:11,955 - server - INFO - Path = /location/18/measurement
+2016-07-11 17:38:11,955 - server - DEBUG - Location id passed in 18
+2016-07-11 17:38:35,586 - server - INFO - Starting Server
+2016-07-11 17:38:38,132 - server - INFO - Received Request from ('127.0.0.1', 55137)
+2016-07-11 17:38:38,132 - server - INFO - Path = /area/3/average_measurement
+2016-07-11 17:38:38,133 - server - DEBUG - Area id passed in 3
+2016-07-11 17:38:38,134 - server - DEBUG - Sending Data 61.77813528637446
+2016-07-11 17:38:38,135 - server - INFO - Received Request from ('127.0.0.1', 55138)
+2016-07-11 17:38:38,135 - server - INFO - Path = /area/7/average_measurement
+2016-07-11 17:38:38,135 - server - DEBUG - Area id passed in 7
+2016-07-11 17:38:38,136 - server - DEBUG - Sending Data null
+2016-07-11 17:38:38,137 - server - INFO - Received Request from ('127.0.0.1', 55139)
+2016-07-11 17:38:38,137 - server - INFO - Path = /area
+2016-07-11 17:38:38,137 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 17:38:38,142 - server - INFO - Received Request from ('127.0.0.1', 55140)
+2016-07-11 17:38:38,142 - server - INFO - Path = /area/3/category
+2016-07-11 17:38:38,142 - server - DEBUG - Area id passed in 3
+2016-07-11 17:38:38,143 - server - DEBUG - Sending Data [[32, "East", "Areas that are in the east"]]
+2016-07-11 17:38:38,144 - server - INFO - Received Request from ('127.0.0.1', 55141)
+2016-07-11 17:38:38,144 - server - INFO - Path = /area/3/location
+2016-07-11 17:38:38,144 - server - DEBUG - Area id passed in 3
+2016-07-11 17:38:38,145 - server - DEBUG - Sending Data [[16, "Town center", 310, 3], [17, "University", 320, 3], [18, "Mall", 330, 3], [19, "Airport", 350, 3]]
+2016-07-11 17:38:38,146 - server - INFO - Received Request from ('127.0.0.1', 55142)
+2016-07-11 17:38:38,147 - server - INFO - Path = /area/3/number_locations
+2016-07-11 17:38:38,147 - server - DEBUG - Area id passed in 3
+2016-07-11 17:38:38,147 - server - DEBUG - Sending Data 4
+2016-07-11 17:38:38,148 - server - INFO - Received Request from ('127.0.0.1', 55143)
+2016-07-11 17:38:38,148 - server - INFO - Path = /location/18/measurement
+2016-07-11 17:38:38,148 - server - DEBUG - Location id passed in 18
+2016-07-11 17:38:38,149 - server - DEBUG - Sending Data [[1800, 64.76532238571423, 18], [1801, 64.4362708239347, 18], [1802, 61.942289720196015, 18], [1803, 61.11457551359794, 18], [1804, 65.9454634313193, 18], [1805, 63.28982120601206, 18], [1806, 64.20528670702936, 18], [1807, 68.15910696128499, 18], [1808, 59.084844705264686, 18], [1809, 61.77343705803522, 18]]
+2016-07-11 17:38:38,150 - server - INFO - Received Request from ('127.0.0.1', 55144)
+2016-07-11 17:38:38,150 - server - INFO - Path = /area
+2016-07-11 17:38:38,151 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 17:38:38,152 - server - INFO - Received Request from ('127.0.0.1', 55145)
+2016-07-11 17:38:38,152 - server - INFO - Path = /area/3/category
+2016-07-11 17:38:38,152 - server - DEBUG - Area id passed in 3
+2016-07-11 17:38:38,152 - server - DEBUG - Sending Data [[32, "East", "Areas that are in the east"]]
+2016-07-11 17:38:38,154 - server - INFO - Received Request from ('127.0.0.1', 55146)
+2016-07-11 17:38:38,154 - server - INFO - Path = /area/3/location
+2016-07-11 17:38:38,154 - server - DEBUG - Area id passed in 3
+2016-07-11 17:38:38,154 - server - DEBUG - Sending Data [[16, "Town center", 310, 3], [17, "University", 320, 3], [18, "Mall", 330, 3], [19, "Airport", 350, 3]]
+2016-07-11 17:38:38,155 - server - INFO - Received Request from ('127.0.0.1', 55147)
+2016-07-11 17:38:38,155 - server - INFO - Path = /location/18/measurement
+2016-07-11 17:38:38,156 - server - DEBUG - Location id passed in 18
+2016-07-11 17:38:38,156 - server - DEBUG - Sending Data [[1800, 64.76532238571423, 18], [1801, 64.4362708239347, 18], [1802, 61.942289720196015, 18], [1803, 61.11457551359794, 18], [1804, 65.9454634313193, 18], [1805, 63.28982120601206, 18], [1806, 64.20528670702936, 18], [1807, 68.15910696128499, 18], [1808, 59.084844705264686, 18], [1809, 61.77343705803522, 18]]
+2016-07-11 17:39:12,807 - server - INFO - Starting Server
+2016-07-11 17:39:21,209 - server - INFO - Received Request from ('127.0.0.1', 55148)
+2016-07-11 17:39:21,209 - server - INFO - Path = /area/3/average_measurement
+2016-07-11 17:39:21,210 - server - DEBUG - Area id passed in 3
+2016-07-11 17:39:21,211 - server - DEBUG - Sending Data 61.77813528637446
+2016-07-11 17:39:21,212 - server - INFO - Received Request from ('127.0.0.1', 55149)
+2016-07-11 17:39:21,212 - server - INFO - Path = /area/7/average_measurement
+2016-07-11 17:39:21,213 - server - DEBUG - Area id passed in 7
+2016-07-11 17:39:21,213 - server - DEBUG - Sending Data null
+2016-07-11 17:39:21,214 - server - INFO - Received Request from ('127.0.0.1', 55150)
+2016-07-11 17:39:21,215 - server - INFO - Path = /area
+2016-07-11 17:39:21,215 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 17:39:21,216 - server - INFO - Received Request from ('127.0.0.1', 55151)
+2016-07-11 17:39:21,216 - server - INFO - Path = /area/3/category
+2016-07-11 17:39:21,216 - server - DEBUG - Area id passed in 3
+2016-07-11 17:39:21,216 - server - DEBUG - Sending Data [[32, "East", "Areas that are in the east"]]
+2016-07-11 17:39:21,218 - server - INFO - Received Request from ('127.0.0.1', 55152)
+2016-07-11 17:39:21,218 - server - INFO - Path = /area/3/location
+2016-07-11 17:39:21,218 - server - DEBUG - Area id passed in 3
+2016-07-11 17:39:21,218 - server - DEBUG - Sending Data [[16, "Town center", 310, 3], [17, "University", 320, 3], [18, "Mall", 330, 3], [19, "Airport", 350, 3]]
+2016-07-11 17:39:21,219 - server - INFO - Received Request from ('127.0.0.1', 55153)
+2016-07-11 17:39:21,219 - server - INFO - Path = /area/3/number_locations
+2016-07-11 17:39:21,219 - server - DEBUG - Area id passed in 3
+2016-07-11 17:39:21,220 - server - DEBUG - Sending Data 4
+2016-07-11 17:39:21,221 - server - INFO - Received Request from ('127.0.0.1', 55154)
+2016-07-11 17:39:21,221 - server - INFO - Path = /location/18/measurement
+2016-07-11 17:39:21,221 - server - DEBUG - Location id passed in 18
+2016-07-11 17:39:21,222 - server - DEBUG - Sending Data [[1800, 64.76532238571423, 18], [1801, 64.4362708239347, 18], [1802, 61.942289720196015, 18], [1803, 61.11457551359794, 18], [1804, 65.9454634313193, 18], [1805, 63.28982120601206, 18], [1806, 64.20528670702936, 18], [1807, 68.15910696128499, 18], [1808, 59.084844705264686, 18], [1809, 61.77343705803522, 18]]
+2016-07-11 17:39:21,223 - server - INFO - Received Request from ('127.0.0.1', 55155)
+2016-07-11 17:39:21,223 - server - INFO - Path = /area
+2016-07-11 17:39:21,223 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 17:39:21,225 - server - INFO - Received Request from ('127.0.0.1', 55156)
+2016-07-11 17:39:21,225 - server - INFO - Path = /area/3/category
+2016-07-11 17:39:21,225 - server - DEBUG - Area id passed in 3
+2016-07-11 17:39:21,225 - server - DEBUG - Sending Data [[32, "East", "Areas that are in the east"]]
+2016-07-11 17:39:21,227 - server - INFO - Received Request from ('127.0.0.1', 55157)
+2016-07-11 17:39:21,227 - server - INFO - Path = /area/3/location
+2016-07-11 17:39:21,227 - server - DEBUG - Area id passed in 3
+2016-07-11 17:39:21,227 - server - DEBUG - Sending Data [[16, "Town center", 310, 3], [17, "University", 320, 3], [18, "Mall", 330, 3], [19, "Airport", 350, 3]]
+2016-07-11 17:39:21,228 - server - INFO - Received Request from ('127.0.0.1', 55158)
+2016-07-11 17:39:21,229 - server - INFO - Path = /location/18/measurement
+2016-07-11 17:39:21,229 - server - DEBUG - Location id passed in 18
+2016-07-11 17:39:21,229 - server - DEBUG - Sending Data [[1800, 64.76532238571423, 18], [1801, 64.4362708239347, 18], [1802, 61.942289720196015, 18], [1803, 61.11457551359794, 18], [1804, 65.9454634313193, 18], [1805, 63.28982120601206, 18], [1806, 64.20528670702936, 18], [1807, 68.15910696128499, 18], [1808, 59.084844705264686, 18], [1809, 61.77343705803522, 18]]
+2016-07-11 17:58:03,088 - server - INFO - Starting Server
+2016-07-11 17:58:43,022 - server - INFO - Received Request from ('127.0.0.1', 55232)
+2016-07-11 17:58:43,023 - server - INFO - Path = /area
+2016-07-11 17:58:43,023 - server - DEBUG - Sending Data null
+2016-07-11 17:58:46,376 - server - INFO - Received Request from ('127.0.0.1', 55233)
+2016-07-11 17:58:46,376 - server - INFO - Path = /area
+2016-07-11 17:58:46,377 - server - DEBUG - Sending Data null
+2016-07-11 17:59:09,696 - server - INFO - Starting Server
+2016-07-11 17:59:11,514 - server - INFO - Received Request from ('127.0.0.1', 55234)
+2016-07-11 17:59:11,515 - server - INFO - Path = /area
+2016-07-11 17:59:11,515 - server - DEBUG - Sending Data [{"name": "Grand Canyon", "area_id": 1, "latitude": 30, "longitude": 20}, {"name": "Boca Raton", "area_id": 2, "latitude": 50, "longitude": 40}, {"name": "Kennesaw", "area_id": 3, "latitude": 70, "longitude": 60}, {"name": "Mount Hood", "area_id": 4, "latitude": 90, "longitude": 80}, {"name": "Mount Rainer", "area_id": 5, "latitude": 121.5, "longitude": 46.5}, {"name": "Saint Olaf", "area_id": 6, "latitude": 93, "longitude": 44}, {"name": "Mount St. Helens", "area_id": 7, "latitude": 122, "longitude": 46}]
+2016-07-11 17:59:55,816 - server - INFO - Starting Server
+2016-07-11 18:00:00,256 - server - INFO - Received Request from ('127.0.0.1', 55236)
+2016-07-11 18:00:00,256 - server - INFO - Path = /area
+2016-07-11 18:02:49,310 - server - INFO - Starting Server
+2016-07-11 18:04:09,014 - server - INFO - Received Request from ('127.0.0.1', 55250)
+2016-07-11 18:04:09,014 - server - INFO - Path = /area/3/average_measurement
+2016-07-11 18:04:09,015 - server - DEBUG - Area id passed in 3
+2016-07-11 18:04:09,019 - server - INFO - Received Request from ('127.0.0.1', 55251)
+2016-07-11 18:04:09,019 - server - INFO - Path = /area/7/average_measurement
+2016-07-11 18:04:09,019 - server - DEBUG - Area id passed in 7
+2016-07-11 18:04:09,020 - server - INFO - Received Request from ('127.0.0.1', 55252)
+2016-07-11 18:04:09,021 - server - INFO - Path = /area
+2016-07-11 18:04:09,021 - server - DEBUG - Sending Data [{"latitude": 30, "longitude": 20, "name": "Grand Canyon", "area_id": 1}, {"latitude": 50, "longitude": 40, "name": "Boca Raton", "area_id": 2}, {"latitude": 70, "longitude": 60, "name": "Kennesaw", "area_id": 3}, {"latitude": 90, "longitude": 80, "name": "Mount Hood", "area_id": 4}, {"latitude": 121.5, "longitude": 46.5, "name": "Mount Rainer", "area_id": 5}, {"latitude": 93, "longitude": 44, "name": "Saint Olaf", "area_id": 6}, {"latitude": 122, "longitude": 46, "name": "Mount St. Helens", "area_id": 7}]
+2016-07-11 18:04:09,024 - server - INFO - Received Request from ('127.0.0.1', 55253)
+2016-07-11 18:04:09,024 - server - INFO - Path = /area/3/category
+2016-07-11 18:04:09,024 - server - DEBUG - Area id passed in 3
+2016-07-11 18:04:09,024 - server - DEBUG - Sending Data [{"category_id": 32, "description": "Areas that are in the east", "name": "East"}]
+2016-07-11 18:04:09,026 - server - INFO - Received Request from ('127.0.0.1', 55254)
+2016-07-11 18:04:09,026 - server - INFO - Path = /area/3/location
+2016-07-11 18:04:09,026 - server - DEBUG - Area id passed in 3
+2016-07-11 18:04:09,026 - server - DEBUG - Sending Data [{"location_id": 16, "location_area": 3, "name": "Town center", "altitude": 310}, {"location_id": 17, "location_area": 3, "name": "University", "altitude": 320}, {"location_id": 18, "location_area": 3, "name": "Mall", "altitude": 330}, {"location_id": 19, "location_area": 3, "name": "Airport", "altitude": 350}]
+2016-07-11 18:04:09,027 - server - INFO - Received Request from ('127.0.0.1', 55255)
+2016-07-11 18:04:09,027 - server - INFO - Path = /area/3/number_locations
+2016-07-11 18:04:09,028 - server - DEBUG - Area id passed in 3
+2016-07-11 18:04:09,037 - server - INFO - Received Request from ('127.0.0.1', 55256)
+2016-07-11 18:04:09,038 - server - INFO - Path = /location/18/measurement
+2016-07-11 18:04:09,038 - server - DEBUG - Location id passed in 18
+2016-07-11 18:04:09,039 - server - DEBUG - Sending Data [{"value": 64.76532238571423, "measurement_id": 1800, "measurement_location": 18}, {"value": 64.4362708239347, "measurement_id": 1801, "measurement_location": 18}, {"value": 61.942289720196015, "measurement_id": 1802, "measurement_location": 18}, {"value": 61.11457551359794, "measurement_id": 1803, "measurement_location": 18}, {"value": 65.9454634313193, "measurement_id": 1804, "measurement_location": 18}, {"value": 63.28982120601206, "measurement_id": 1805, "measurement_location": 18}, {"value": 64.20528670702936, "measurement_id": 1806, "measurement_location": 18}, {"value": 68.15910696128499, "measurement_id": 1807, "measurement_location": 18}, {"value": 59.084844705264686, "measurement_id": 1808, "measurement_location": 18}, {"value": 61.77343705803522, "measurement_id": 1809, "measurement_location": 18}]
+2016-07-11 18:04:09,041 - server - INFO - Received Request from ('127.0.0.1', 55257)
+2016-07-11 18:04:09,041 - server - INFO - Path = /area
+2016-07-11 18:04:09,041 - server - DEBUG - Sending Data [{"latitude": 30, "longitude": 20, "name": "Grand Canyon", "area_id": 1}, {"latitude": 50, "longitude": 40, "name": "Boca Raton", "area_id": 2}, {"latitude": 70, "longitude": 60, "name": "Kennesaw", "area_id": 3}, {"latitude": 90, "longitude": 80, "name": "Mount Hood", "area_id": 4}, {"latitude": 121.5, "longitude": 46.5, "name": "Mount Rainer", "area_id": 5}, {"latitude": 93, "longitude": 44, "name": "Saint Olaf", "area_id": 6}, {"latitude": 122, "longitude": 46, "name": "Mount St. Helens", "area_id": 7}]
+2016-07-11 18:04:09,048 - server - INFO - Received Request from ('127.0.0.1', 55258)
+2016-07-11 18:04:09,048 - server - INFO - Path = /area/3/category
+2016-07-11 18:04:09,048 - server - DEBUG - Area id passed in 3
+2016-07-11 18:04:09,048 - server - DEBUG - Sending Data [{"category_id": 32, "description": "Areas that are in the east", "name": "East"}]
+2016-07-11 18:04:09,050 - server - INFO - Received Request from ('127.0.0.1', 55259)
+2016-07-11 18:04:09,050 - server - INFO - Path = /area/3/location
+2016-07-11 18:04:09,050 - server - DEBUG - Area id passed in 3
+2016-07-11 18:04:09,050 - server - DEBUG - Sending Data [{"location_id": 16, "location_area": 3, "name": "Town center", "altitude": 310}, {"location_id": 17, "location_area": 3, "name": "University", "altitude": 320}, {"location_id": 18, "location_area": 3, "name": "Mall", "altitude": 330}, {"location_id": 19, "location_area": 3, "name": "Airport", "altitude": 350}]
+2016-07-11 18:04:09,051 - server - INFO - Received Request from ('127.0.0.1', 55260)
+2016-07-11 18:04:09,051 - server - INFO - Path = /location/18/measurement
+2016-07-11 18:04:09,052 - server - DEBUG - Location id passed in 18
+2016-07-11 18:04:09,052 - server - DEBUG - Sending Data [{"value": 64.76532238571423, "measurement_id": 1800, "measurement_location": 18}, {"value": 64.4362708239347, "measurement_id": 1801, "measurement_location": 18}, {"value": 61.942289720196015, "measurement_id": 1802, "measurement_location": 18}, {"value": 61.11457551359794, "measurement_id": 1803, "measurement_location": 18}, {"value": 65.9454634313193, "measurement_id": 1804, "measurement_location": 18}, {"value": 63.28982120601206, "measurement_id": 1805, "measurement_location": 18}, {"value": 64.20528670702936, "measurement_id": 1806, "measurement_location": 18}, {"value": 68.15910696128499, "measurement_id": 1807, "measurement_location": 18}, {"value": 59.084844705264686, "measurement_id": 1808, "measurement_location": 18}, {"value": 61.77343705803522, "measurement_id": 1809, "measurement_location": 18}]
+2016-07-11 18:04:30,584 - server - INFO - Starting Server
+2016-07-11 18:04:33,442 - server - INFO - Received Request from ('127.0.0.1', 55261)
+2016-07-11 18:04:33,442 - server - INFO - Path = /area/3/average_measurement
+2016-07-11 18:04:33,443 - server - DEBUG - Area id passed in 3
+2016-07-11 18:04:33,444 - server - DEBUG - Sending Data 61.77813528637446
+2016-07-11 18:04:33,445 - server - INFO - Received Request from ('127.0.0.1', 55262)
+2016-07-11 18:04:33,445 - server - INFO - Path = /area/7/average_measurement
+2016-07-11 18:04:33,445 - server - DEBUG - Area id passed in 7
+2016-07-11 18:04:33,446 - server - DEBUG - Sending Data null
+2016-07-11 18:04:33,447 - server - INFO - Received Request from ('127.0.0.1', 55263)
+2016-07-11 18:04:33,447 - server - INFO - Path = /area
+2016-07-11 18:04:33,447 - server - DEBUG - Sending Data [{"area_id": 1, "name": "Grand Canyon", "longitude": 20, "latitude": 30}, {"area_id": 2, "name": "Boca Raton", "longitude": 40, "latitude": 50}, {"area_id": 3, "name": "Kennesaw", "longitude": 60, "latitude": 70}, {"area_id": 4, "name": "Mount Hood", "longitude": 80, "latitude": 90}, {"area_id": 5, "name": "Mount Rainer", "longitude": 46.5, "latitude": 121.5}, {"area_id": 6, "name": "Saint Olaf", "longitude": 44, "latitude": 93}, {"area_id": 7, "name": "Mount St. Helens", "longitude": 46, "latitude": 122}]
+2016-07-11 18:04:33,448 - server - INFO - Received Request from ('127.0.0.1', 55264)
+2016-07-11 18:04:33,448 - server - INFO - Path = /area/3/category
+2016-07-11 18:04:33,448 - server - DEBUG - Area id passed in 3
+2016-07-11 18:04:33,449 - server - DEBUG - Sending Data [{"category_id": 32, "name": "East", "description": "Areas that are in the east"}]
+2016-07-11 18:04:33,450 - server - INFO - Received Request from ('127.0.0.1', 55265)
+2016-07-11 18:04:33,450 - server - INFO - Path = /area/3/location
+2016-07-11 18:04:33,450 - server - DEBUG - Area id passed in 3
+2016-07-11 18:04:33,450 - server - DEBUG - Sending Data [{"location_id": 16, "name": "Town center", "altitude": 310, "location_area": 3}, {"location_id": 17, "name": "University", "altitude": 320, "location_area": 3}, {"location_id": 18, "name": "Mall", "altitude": 330, "location_area": 3}, {"location_id": 19, "name": "Airport", "altitude": 350, "location_area": 3}]
+2016-07-11 18:04:33,451 - server - INFO - Received Request from ('127.0.0.1', 55266)
+2016-07-11 18:04:33,451 - server - INFO - Path = /area/3/number_locations
+2016-07-11 18:04:33,451 - server - DEBUG - Area id passed in 3
+2016-07-11 18:04:33,454 - server - INFO - Received Request from ('127.0.0.1', 55267)
+2016-07-11 18:04:33,455 - server - INFO - Path = /location/18/measurement
+2016-07-11 18:04:33,455 - server - DEBUG - Location id passed in 18
+2016-07-11 18:04:33,455 - server - DEBUG - Sending Data [{"measurement_location": 18, "measurement_id": 1800, "value": 64.76532238571423}, {"measurement_location": 18, "measurement_id": 1801, "value": 64.4362708239347}, {"measurement_location": 18, "measurement_id": 1802, "value": 61.942289720196015}, {"measurement_location": 18, "measurement_id": 1803, "value": 61.11457551359794}, {"measurement_location": 18, "measurement_id": 1804, "value": 65.9454634313193}, {"measurement_location": 18, "measurement_id": 1805, "value": 63.28982120601206}, {"measurement_location": 18, "measurement_id": 1806, "value": 64.20528670702936}, {"measurement_location": 18, "measurement_id": 1807, "value": 68.15910696128499}, {"measurement_location": 18, "measurement_id": 1808, "value": 59.084844705264686}, {"measurement_location": 18, "measurement_id": 1809, "value": 61.77343705803522}]
+2016-07-11 18:04:33,462 - server - INFO - Received Request from ('127.0.0.1', 55268)
+2016-07-11 18:04:33,462 - server - INFO - Path = /area
+2016-07-11 18:04:33,462 - server - DEBUG - Sending Data [{"area_id": 1, "name": "Grand Canyon", "longitude": 20, "latitude": 30}, {"area_id": 2, "name": "Boca Raton", "longitude": 40, "latitude": 50}, {"area_id": 3, "name": "Kennesaw", "longitude": 60, "latitude": 70}, {"area_id": 4, "name": "Mount Hood", "longitude": 80, "latitude": 90}, {"area_id": 5, "name": "Mount Rainer", "longitude": 46.5, "latitude": 121.5}, {"area_id": 6, "name": "Saint Olaf", "longitude": 44, "latitude": 93}, {"area_id": 7, "name": "Mount St. Helens", "longitude": 46, "latitude": 122}]
+2016-07-11 18:04:33,465 - server - INFO - Received Request from ('127.0.0.1', 55269)
+2016-07-11 18:04:33,465 - server - INFO - Path = /area/3/category
+2016-07-11 18:04:33,465 - server - DEBUG - Area id passed in 3
+2016-07-11 18:04:33,465 - server - DEBUG - Sending Data [{"category_id": 32, "name": "East", "description": "Areas that are in the east"}]
+2016-07-11 18:04:33,466 - server - INFO - Received Request from ('127.0.0.1', 55270)
+2016-07-11 18:04:33,466 - server - INFO - Path = /area/3/location
+2016-07-11 18:04:33,466 - server - DEBUG - Area id passed in 3
+2016-07-11 18:04:33,467 - server - DEBUG - Sending Data [{"location_id": 16, "name": "Town center", "altitude": 310, "location_area": 3}, {"location_id": 17, "name": "University", "altitude": 320, "location_area": 3}, {"location_id": 18, "name": "Mall", "altitude": 330, "location_area": 3}, {"location_id": 19, "name": "Airport", "altitude": 350, "location_area": 3}]
+2016-07-11 18:04:33,469 - server - INFO - Received Request from ('127.0.0.1', 55271)
+2016-07-11 18:04:33,469 - server - INFO - Path = /location/18/measurement
+2016-07-11 18:04:33,469 - server - DEBUG - Location id passed in 18
+2016-07-11 18:04:33,470 - server - DEBUG - Sending Data [{"measurement_location": 18, "measurement_id": 1800, "value": 64.76532238571423}, {"measurement_location": 18, "measurement_id": 1801, "value": 64.4362708239347}, {"measurement_location": 18, "measurement_id": 1802, "value": 61.942289720196015}, {"measurement_location": 18, "measurement_id": 1803, "value": 61.11457551359794}, {"measurement_location": 18, "measurement_id": 1804, "value": 65.9454634313193}, {"measurement_location": 18, "measurement_id": 1805, "value": 63.28982120601206}, {"measurement_location": 18, "measurement_id": 1806, "value": 64.20528670702936}, {"measurement_location": 18, "measurement_id": 1807, "value": 68.15910696128499}, {"measurement_location": 18, "measurement_id": 1808, "value": 59.084844705264686}, {"measurement_location": 18, "measurement_id": 1809, "value": 61.77343705803522}]
+2016-07-11 18:05:20,981 - server - INFO - Starting Server
+2016-07-11 18:05:24,005 - server - INFO - Received Request from ('127.0.0.1', 55272)
+2016-07-11 18:05:24,005 - server - INFO - Path = /area/3/average_measurement
+2016-07-11 18:05:24,006 - server - DEBUG - Area id passed in 3
+2016-07-11 18:05:24,007 - server - DEBUG - Sending Data {"avg(measurement.value)": 61.77813528637446}
+2016-07-11 18:05:24,010 - server - INFO - Received Request from ('127.0.0.1', 55273)
+2016-07-11 18:05:24,010 - server - INFO - Path = /area/7/average_measurement
+2016-07-11 18:05:24,010 - server - DEBUG - Area id passed in 7
+2016-07-11 18:05:24,011 - server - DEBUG - Sending Data {"avg(measurement.value)": null}
+2016-07-11 18:05:24,012 - server - INFO - Received Request from ('127.0.0.1', 55274)
+2016-07-11 18:05:24,012 - server - INFO - Path = /area
+2016-07-11 18:05:24,012 - server - DEBUG - Sending Data [{"name": "Grand Canyon", "latitude": 30, "longitude": 20, "area_id": 1}, {"name": "Boca Raton", "latitude": 50, "longitude": 40, "area_id": 2}, {"name": "Kennesaw", "latitude": 70, "longitude": 60, "area_id": 3}, {"name": "Mount Hood", "latitude": 90, "longitude": 80, "area_id": 4}, {"name": "Mount Rainer", "latitude": 121.5, "longitude": 46.5, "area_id": 5}, {"name": "Saint Olaf", "latitude": 93, "longitude": 44, "area_id": 6}, {"name": "Mount St. Helens", "latitude": 122, "longitude": 46, "area_id": 7}]
+2016-07-11 18:05:24,014 - server - INFO - Received Request from ('127.0.0.1', 55275)
+2016-07-11 18:05:24,014 - server - INFO - Path = /area/3/category
+2016-07-11 18:05:24,014 - server - DEBUG - Area id passed in 3
+2016-07-11 18:05:24,015 - server - DEBUG - Sending Data [{"name": "East", "description": "Areas that are in the east", "category_id": 32}]
+2016-07-11 18:05:24,016 - server - INFO - Received Request from ('127.0.0.1', 55276)
+2016-07-11 18:05:24,016 - server - INFO - Path = /area/3/location
+2016-07-11 18:05:24,016 - server - DEBUG - Area id passed in 3
+2016-07-11 18:05:24,016 - server - DEBUG - Sending Data [{"name": "Town center", "location_area": 3, "location_id": 16, "altitude": 310}, {"name": "University", "location_area": 3, "location_id": 17, "altitude": 320}, {"name": "Mall", "location_area": 3, "location_id": 18, "altitude": 330}, {"name": "Airport", "location_area": 3, "location_id": 19, "altitude": 350}]
+2016-07-11 18:05:24,017 - server - INFO - Received Request from ('127.0.0.1', 55277)
+2016-07-11 18:05:24,017 - server - INFO - Path = /area/3/number_locations
+2016-07-11 18:05:24,018 - server - DEBUG - Area id passed in 3
+2016-07-11 18:05:24,018 - server - DEBUG - Sending Data {"count(*)": 4}
+2016-07-11 18:05:24,019 - server - INFO - Received Request from ('127.0.0.1', 55278)
+2016-07-11 18:05:24,019 - server - INFO - Path = /location/18/measurement
+2016-07-11 18:05:24,019 - server - DEBUG - Location id passed in 18
+2016-07-11 18:05:24,019 - server - DEBUG - Sending Data [{"measurement_location": 18, "value": 64.76532238571423, "measurement_id": 1800}, {"measurement_location": 18, "value": 64.4362708239347, "measurement_id": 1801}, {"measurement_location": 18, "value": 61.942289720196015, "measurement_id": 1802}, {"measurement_location": 18, "value": 61.11457551359794, "measurement_id": 1803}, {"measurement_location": 18, "value": 65.9454634313193, "measurement_id": 1804}, {"measurement_location": 18, "value": 63.28982120601206, "measurement_id": 1805}, {"measurement_location": 18, "value": 64.20528670702936, "measurement_id": 1806}, {"measurement_location": 18, "value": 68.15910696128499, "measurement_id": 1807}, {"measurement_location": 18, "value": 59.084844705264686, "measurement_id": 1808}, {"measurement_location": 18, "value": 61.77343705803522, "measurement_id": 1809}]
+2016-07-11 18:05:24,021 - server - INFO - Received Request from ('127.0.0.1', 55279)
+2016-07-11 18:05:24,021 - server - INFO - Path = /area
+2016-07-11 18:05:24,021 - server - DEBUG - Sending Data [{"name": "Grand Canyon", "latitude": 30, "longitude": 20, "area_id": 1}, {"name": "Boca Raton", "latitude": 50, "longitude": 40, "area_id": 2}, {"name": "Kennesaw", "latitude": 70, "longitude": 60, "area_id": 3}, {"name": "Mount Hood", "latitude": 90, "longitude": 80, "area_id": 4}, {"name": "Mount Rainer", "latitude": 121.5, "longitude": 46.5, "area_id": 5}, {"name": "Saint Olaf", "latitude": 93, "longitude": 44, "area_id": 6}, {"name": "Mount St. Helens", "latitude": 122, "longitude": 46, "area_id": 7}]
+2016-07-11 18:05:24,022 - server - INFO - Received Request from ('127.0.0.1', 55280)
+2016-07-11 18:05:24,022 - server - INFO - Path = /area/3/category
+2016-07-11 18:05:24,022 - server - DEBUG - Area id passed in 3
+2016-07-11 18:05:24,022 - server - DEBUG - Sending Data [{"name": "East", "description": "Areas that are in the east", "category_id": 32}]
+2016-07-11 18:05:24,024 - server - INFO - Received Request from ('127.0.0.1', 55281)
+2016-07-11 18:05:24,024 - server - INFO - Path = /area/3/location
+2016-07-11 18:05:24,024 - server - DEBUG - Area id passed in 3
+2016-07-11 18:05:24,024 - server - DEBUG - Sending Data [{"name": "Town center", "location_area": 3, "location_id": 16, "altitude": 310}, {"name": "University", "location_area": 3, "location_id": 17, "altitude": 320}, {"name": "Mall", "location_area": 3, "location_id": 18, "altitude": 330}, {"name": "Airport", "location_area": 3, "location_id": 19, "altitude": 350}]
+2016-07-11 18:05:24,026 - server - INFO - Received Request from ('127.0.0.1', 55282)
+2016-07-11 18:05:24,026 - server - INFO - Path = /location/18/measurement
+2016-07-11 18:05:24,026 - server - DEBUG - Location id passed in 18
+2016-07-11 18:05:24,026 - server - DEBUG - Sending Data [{"measurement_location": 18, "value": 64.76532238571423, "measurement_id": 1800}, {"measurement_location": 18, "value": 64.4362708239347, "measurement_id": 1801}, {"measurement_location": 18, "value": 61.942289720196015, "measurement_id": 1802}, {"measurement_location": 18, "value": 61.11457551359794, "measurement_id": 1803}, {"measurement_location": 18, "value": 65.9454634313193, "measurement_id": 1804}, {"measurement_location": 18, "value": 63.28982120601206, "measurement_id": 1805}, {"measurement_location": 18, "value": 64.20528670702936, "measurement_id": 1806}, {"measurement_location": 18, "value": 68.15910696128499, "measurement_id": 1807}, {"measurement_location": 18, "value": 59.084844705264686, "measurement_id": 1808}, {"measurement_location": 18, "value": 61.77343705803522, "measurement_id": 1809}]
+2016-07-11 18:06:36,286 - server - INFO - Starting Server
+2016-07-11 18:06:39,509 - server - INFO - Received Request from ('127.0.0.1', 55287)
+2016-07-11 18:06:39,509 - server - INFO - Path = /area/3/average_measurement
+2016-07-11 18:06:39,510 - server - DEBUG - Area id passed in 3
+2016-07-11 18:06:39,511 - server - DEBUG - Sending Data [61.77813528637446]
+2016-07-11 18:06:39,514 - server - INFO - Received Request from ('127.0.0.1', 55288)
+2016-07-11 18:06:39,515 - server - INFO - Path = /area/7/average_measurement
+2016-07-11 18:06:39,515 - server - DEBUG - Area id passed in 7
+2016-07-11 18:06:39,515 - server - DEBUG - Sending Data [null]
+2016-07-11 18:06:39,516 - server - INFO - Received Request from ('127.0.0.1', 55289)
+2016-07-11 18:06:39,516 - server - INFO - Path = /area
+2016-07-11 18:06:39,517 - server - DEBUG - Sending Data [{"name": "Grand Canyon", "latitude": 30, "longitude": 20, "area_id": 1}, {"name": "Boca Raton", "latitude": 50, "longitude": 40, "area_id": 2}, {"name": "Kennesaw", "latitude": 70, "longitude": 60, "area_id": 3}, {"name": "Mount Hood", "latitude": 90, "longitude": 80, "area_id": 4}, {"name": "Mount Rainer", "latitude": 121.5, "longitude": 46.5, "area_id": 5}, {"name": "Saint Olaf", "latitude": 93, "longitude": 44, "area_id": 6}, {"name": "Mount St. Helens", "latitude": 122, "longitude": 46, "area_id": 7}]
+2016-07-11 18:06:39,518 - server - INFO - Received Request from ('127.0.0.1', 55290)
+2016-07-11 18:06:39,518 - server - INFO - Path = /area/3/category
+2016-07-11 18:06:39,518 - server - DEBUG - Area id passed in 3
+2016-07-11 18:06:39,518 - server - DEBUG - Sending Data [{"name": "East", "category_id": 32, "description": "Areas that are in the east"}]
+2016-07-11 18:06:39,519 - server - INFO - Received Request from ('127.0.0.1', 55291)
+2016-07-11 18:06:39,520 - server - INFO - Path = /area/3/location
+2016-07-11 18:06:39,520 - server - DEBUG - Area id passed in 3
+2016-07-11 18:06:39,520 - server - DEBUG - Sending Data [{"name": "Town center", "location_id": 16, "location_area": 3, "altitude": 310}, {"name": "University", "location_id": 17, "location_area": 3, "altitude": 320}, {"name": "Mall", "location_id": 18, "location_area": 3, "altitude": 330}, {"name": "Airport", "location_id": 19, "location_area": 3, "altitude": 350}]
+2016-07-11 18:06:39,521 - server - INFO - Received Request from ('127.0.0.1', 55292)
+2016-07-11 18:06:39,521 - server - INFO - Path = /area/3/number_locations
+2016-07-11 18:06:39,521 - server - DEBUG - Area id passed in 3
+2016-07-11 18:06:39,522 - server - DEBUG - Sending Data [4]
+2016-07-11 18:06:39,523 - server - INFO - Received Request from ('127.0.0.1', 55293)
+2016-07-11 18:06:39,523 - server - INFO - Path = /location/18/measurement
+2016-07-11 18:06:39,523 - server - DEBUG - Location id passed in 18
+2016-07-11 18:06:39,523 - server - DEBUG - Sending Data [{"measurement_location": 18, "measurement_id": 1800, "value": 64.76532238571423}, {"measurement_location": 18, "measurement_id": 1801, "value": 64.4362708239347}, {"measurement_location": 18, "measurement_id": 1802, "value": 61.942289720196015}, {"measurement_location": 18, "measurement_id": 1803, "value": 61.11457551359794}, {"measurement_location": 18, "measurement_id": 1804, "value": 65.9454634313193}, {"measurement_location": 18, "measurement_id": 1805, "value": 63.28982120601206}, {"measurement_location": 18, "measurement_id": 1806, "value": 64.20528670702936}, {"measurement_location": 18, "measurement_id": 1807, "value": 68.15910696128499}, {"measurement_location": 18, "measurement_id": 1808, "value": 59.084844705264686}, {"measurement_location": 18, "measurement_id": 1809, "value": 61.77343705803522}]
+2016-07-11 18:06:39,525 - server - INFO - Received Request from ('127.0.0.1', 55294)
+2016-07-11 18:06:39,525 - server - INFO - Path = /area
+2016-07-11 18:06:39,526 - server - DEBUG - Sending Data [{"name": "Grand Canyon", "latitude": 30, "longitude": 20, "area_id": 1}, {"name": "Boca Raton", "latitude": 50, "longitude": 40, "area_id": 2}, {"name": "Kennesaw", "latitude": 70, "longitude": 60, "area_id": 3}, {"name": "Mount Hood", "latitude": 90, "longitude": 80, "area_id": 4}, {"name": "Mount Rainer", "latitude": 121.5, "longitude": 46.5, "area_id": 5}, {"name": "Saint Olaf", "latitude": 93, "longitude": 44, "area_id": 6}, {"name": "Mount St. Helens", "latitude": 122, "longitude": 46, "area_id": 7}]
+2016-07-11 18:06:39,527 - server - INFO - Received Request from ('127.0.0.1', 55295)
+2016-07-11 18:06:39,527 - server - INFO - Path = /area/3/category
+2016-07-11 18:06:39,527 - server - DEBUG - Area id passed in 3
+2016-07-11 18:06:39,527 - server - DEBUG - Sending Data [{"name": "East", "category_id": 32, "description": "Areas that are in the east"}]
+2016-07-11 18:06:39,533 - server - INFO - Received Request from ('127.0.0.1', 55296)
+2016-07-11 18:06:39,533 - server - INFO - Path = /area/3/location
+2016-07-11 18:06:39,533 - server - DEBUG - Area id passed in 3
+2016-07-11 18:06:39,534 - server - DEBUG - Sending Data [{"name": "Town center", "location_id": 16, "location_area": 3, "altitude": 310}, {"name": "University", "location_id": 17, "location_area": 3, "altitude": 320}, {"name": "Mall", "location_id": 18, "location_area": 3, "altitude": 330}, {"name": "Airport", "location_id": 19, "location_area": 3, "altitude": 350}]
+2016-07-11 18:06:39,535 - server - INFO - Received Request from ('127.0.0.1', 55297)
+2016-07-11 18:06:39,535 - server - INFO - Path = /location/18/measurement
+2016-07-11 18:06:39,535 - server - DEBUG - Location id passed in 18
+2016-07-11 18:06:39,536 - server - DEBUG - Sending Data [{"measurement_location": 18, "measurement_id": 1800, "value": 64.76532238571423}, {"measurement_location": 18, "measurement_id": 1801, "value": 64.4362708239347}, {"measurement_location": 18, "measurement_id": 1802, "value": 61.942289720196015}, {"measurement_location": 18, "measurement_id": 1803, "value": 61.11457551359794}, {"measurement_location": 18, "measurement_id": 1804, "value": 65.9454634313193}, {"measurement_location": 18, "measurement_id": 1805, "value": 63.28982120601206}, {"measurement_location": 18, "measurement_id": 1806, "value": 64.20528670702936}, {"measurement_location": 18, "measurement_id": 1807, "value": 68.15910696128499}, {"measurement_location": 18, "measurement_id": 1808, "value": 59.084844705264686}, {"measurement_location": 18, "measurement_id": 1809, "value": 61.77343705803522}]
