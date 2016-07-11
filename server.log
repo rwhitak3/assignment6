@@ -743,3 +743,45 @@
 2016-07-11 18:06:39,535 - server - INFO - Path = /location/18/measurement
 2016-07-11 18:06:39,535 - server - DEBUG - Location id passed in 18
 2016-07-11 18:06:39,536 - server - DEBUG - Sending Data [{"measurement_location": 18, "measurement_id": 1800, "value": 64.76532238571423}, {"measurement_location": 18, "measurement_id": 1801, "value": 64.4362708239347}, {"measurement_location": 18, "measurement_id": 1802, "value": 61.942289720196015}, {"measurement_location": 18, "measurement_id": 1803, "value": 61.11457551359794}, {"measurement_location": 18, "measurement_id": 1804, "value": 65.9454634313193}, {"measurement_location": 18, "measurement_id": 1805, "value": 63.28982120601206}, {"measurement_location": 18, "measurement_id": 1806, "value": 64.20528670702936}, {"measurement_location": 18, "measurement_id": 1807, "value": 68.15910696128499}, {"measurement_location": 18, "measurement_id": 1808, "value": 59.084844705264686}, {"measurement_location": 18, "measurement_id": 1809, "value": 61.77343705803522}]
+2016-07-11 18:15:15,756 - server - INFO - Starting Server
+2016-07-11 18:15:18,385 - server - INFO - Received Request from ('127.0.0.1', 55311)
+2016-07-11 18:15:18,385 - server - INFO - Path = /area/3/average_measurement
+2016-07-11 18:15:18,386 - server - DEBUG - Area id passed in 3
+2016-07-11 18:15:18,387 - server - DEBUG - Sending Data 61.77813528637446
+2016-07-11 18:15:18,389 - server - INFO - Received Request from ('127.0.0.1', 55312)
+2016-07-11 18:15:18,389 - server - INFO - Path = /area/7/average_measurement
+2016-07-11 18:15:18,389 - server - DEBUG - Area id passed in 7
+2016-07-11 18:15:18,392 - server - INFO - Received Request from ('127.0.0.1', 55313)
+2016-07-11 18:15:18,392 - server - INFO - Path = /area
+2016-07-11 18:15:18,392 - server - DEBUG - Sending Data [{"area_id": 1, "latitude": 30, "name": "Grand Canyon", "longitude": 20}, {"area_id": 2, "latitude": 50, "name": "Boca Raton", "longitude": 40}, {"area_id": 3, "latitude": 70, "name": "Kennesaw", "longitude": 60}, {"area_id": 4, "latitude": 90, "name": "Mount Hood", "longitude": 80}, {"area_id": 5, "latitude": 121.5, "name": "Mount Rainer", "longitude": 46.5}, {"area_id": 6, "latitude": 93, "name": "Saint Olaf", "longitude": 44}, {"area_id": 7, "latitude": 122, "name": "Mount St. Helens", "longitude": 46}]
+2016-07-11 18:15:18,401 - server - INFO - Received Request from ('127.0.0.1', 55314)
+2016-07-11 18:15:18,401 - server - INFO - Path = /area/3/category
+2016-07-11 18:15:18,401 - server - DEBUG - Area id passed in 3
+2016-07-11 18:15:18,402 - server - DEBUG - Sending Data [{"description": "Areas that are in the east", "name": "East", "category_id": 32}]
+2016-07-11 18:15:18,403 - server - INFO - Received Request from ('127.0.0.1', 55315)
+2016-07-11 18:15:18,403 - server - INFO - Path = /area/3/location
+2016-07-11 18:15:18,403 - server - DEBUG - Area id passed in 3
+2016-07-11 18:15:18,403 - server - DEBUG - Sending Data [{"location_id": 16, "altitude": 310, "name": "Town center", "location_area": 3}, {"location_id": 17, "altitude": 320, "name": "University", "location_area": 3}, {"location_id": 18, "altitude": 330, "name": "Mall", "location_area": 3}, {"location_id": 19, "altitude": 350, "name": "Airport", "location_area": 3}]
+2016-07-11 18:15:18,404 - server - INFO - Received Request from ('127.0.0.1', 55316)
+2016-07-11 18:15:18,404 - server - INFO - Path = /area/3/number_locations
+2016-07-11 18:15:18,405 - server - DEBUG - Area id passed in 3
+2016-07-11 18:15:18,405 - server - DEBUG - Sending Data 4
+2016-07-11 18:15:18,406 - server - INFO - Received Request from ('127.0.0.1', 55317)
+2016-07-11 18:15:18,406 - server - INFO - Path = /location/18/measurement
+2016-07-11 18:15:18,406 - server - DEBUG - Location id passed in 18
+2016-07-11 18:15:18,408 - server - DEBUG - Sending Data [{"measurement_location": 18, "value": 64.76532238571423, "measurement_id": 1800}, {"measurement_location": 18, "value": 64.4362708239347, "measurement_id": 1801}, {"measurement_location": 18, "value": 61.942289720196015, "measurement_id": 1802}, {"measurement_location": 18, "value": 61.11457551359794, "measurement_id": 1803}, {"measurement_location": 18, "value": 65.9454634313193, "measurement_id": 1804}, {"measurement_location": 18, "value": 63.28982120601206, "measurement_id": 1805}, {"measurement_location": 18, "value": 64.20528670702936, "measurement_id": 1806}, {"measurement_location": 18, "value": 68.15910696128499, "measurement_id": 1807}, {"measurement_location": 18, "value": 59.084844705264686, "measurement_id": 1808}, {"measurement_location": 18, "value": 61.77343705803522, "measurement_id": 1809}]
+2016-07-11 18:15:18,410 - server - INFO - Received Request from ('127.0.0.1', 55318)
+2016-07-11 18:15:18,410 - server - INFO - Path = /area
+2016-07-11 18:15:18,410 - server - DEBUG - Sending Data [{"area_id": 1, "latitude": 30, "name": "Grand Canyon", "longitude": 20}, {"area_id": 2, "latitude": 50, "name": "Boca Raton", "longitude": 40}, {"area_id": 3, "latitude": 70, "name": "Kennesaw", "longitude": 60}, {"area_id": 4, "latitude": 90, "name": "Mount Hood", "longitude": 80}, {"area_id": 5, "latitude": 121.5, "name": "Mount Rainer", "longitude": 46.5}, {"area_id": 6, "latitude": 93, "name": "Saint Olaf", "longitude": 44}, {"area_id": 7, "latitude": 122, "name": "Mount St. Helens", "longitude": 46}]
+2016-07-11 18:15:18,413 - server - INFO - Received Request from ('127.0.0.1', 55319)
+2016-07-11 18:15:18,413 - server - INFO - Path = /area/3/category
+2016-07-11 18:15:18,413 - server - DEBUG - Area id passed in 3
+2016-07-11 18:15:18,413 - server - DEBUG - Sending Data [{"description": "Areas that are in the east", "name": "East", "category_id": 32}]
+2016-07-11 18:15:18,415 - server - INFO - Received Request from ('127.0.0.1', 55320)
+2016-07-11 18:15:18,415 - server - INFO - Path = /area/3/location
+2016-07-11 18:15:18,415 - server - DEBUG - Area id passed in 3
+2016-07-11 18:15:18,415 - server - DEBUG - Sending Data [{"location_id": 16, "altitude": 310, "name": "Town center", "location_area": 3}, {"location_id": 17, "altitude": 320, "name": "University", "location_area": 3}, {"location_id": 18, "altitude": 330, "name": "Mall", "location_area": 3}, {"location_id": 19, "altitude": 350, "name": "Airport", "location_area": 3}]
+2016-07-11 18:15:18,423 - server - INFO - Received Request from ('127.0.0.1', 55321)
+2016-07-11 18:15:18,423 - server - INFO - Path = /location/18/measurement
+2016-07-11 18:15:18,423 - server - DEBUG - Location id passed in 18
+2016-07-11 18:15:18,423 - server - DEBUG - Sending Data [{"measurement_location": 18, "value": 64.76532238571423, "measurement_id": 1800}, {"measurement_location": 18, "value": 64.4362708239347, "measurement_id": 1801}, {"measurement_location": 18, "value": 61.942289720196015, "measurement_id": 1802}, {"measurement_location": 18, "value": 61.11457551359794, "measurement_id": 1803}, {"measurement_location": 18, "value": 65.9454634313193, "measurement_id": 1804}, {"measurement_location": 18, "value": 63.28982120601206, "measurement_id": 1805}, {"measurement_location": 18, "value": 64.20528670702936, "measurement_id": 1806}, {"measurement_location": 18, "value": 68.15910696128499, "measurement_id": 1807}, {"measurement_location": 18, "value": 59.084844705264686, "measurement_id": 1808}, {"measurement_location": 18, "value": 61.77343705803522, "measurement_id": 1809}]

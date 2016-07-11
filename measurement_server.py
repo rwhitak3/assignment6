@@ -33,35 +33,50 @@ class RestHandler(BaseHTTPRequestHandler):
         logger.info("Received Request from {}".format(self.client_address))
         logger.info("Path = {}".format(self.path))
         if re.fullmatch('/area', self.path):
-            areas = measures.get_areas()
-            self.send_json(areas)
+            result = measures.get_areas()
+            if result is not None:
+                return self.send_json(result)
         elif re.fullmatch("/area/(\\d+)/location", self.path):
             match = re.fullmatch("/area/(\\d+)/location", self.path)
             area_id = match.group(1)
             logger.debug("Area id passed in {}".format(area_id))
-            self.send_json(measures.get_locations_by_area_id(area_id))
+            result = measures.get_locations_by_area_id(area_id)
+            if result is not None:
+                return self.send_json(result)
         elif re.fullmatch("/location/(\\d+)/measurement", self.path):
             match = re.fullmatch("/location/(\\d+)/measurement", self.path)
             location_id = match.group(1)
             logger.debug("Location id passed in {}".format(location_id))
-            self.send_json(measures.get_measures_by_location_id(location_id))
+            result = measures.get_measures_by_location_id(location_id)
+            if result is not None:
+                return self.send_json(result)
         elif re.fullmatch("/area/(\\d+)/category", self.path):
             match = re.fullmatch("/area/(\\d+)/category", self.path)
             area_id = match.group(1)
             logger.debug("Area id passed in {}".format(area_id))
-            self.send_json(measures.get_categories_by_area_id(area_id))
+            result = measures.get_categories_by_area_id(area_id)
+            if result is not None:
+                return self.send_json(result)
         elif re.fullmatch("/area/(\\d+)/average_measurement", self.path):
             match = re.fullmatch("/area/(\\d+)/average_measurement", self.path)
             area_id = match.group(1)
             logger.debug("Area id passed in {}".format(area_id))
-            self.send_json(measures.get_avg_measurement_by_area_id(area_id))
+            result = measures.get_avg_measurement_by_area_id(area_id)
+            if result is not None:
+                return self.send_json(result)
+
         elif re.fullmatch("/area/(\\d+)/number_locations", self.path):
             match = re.fullmatch("/area/(\\d+)/number_locations", self.path)
             area_id = match.group(1)
             logger.debug("Area id passed in {}".format(area_id))
-            self.send_json(measures.get_locations_count_by_area_id(area_id))
+            result = measures.get_locations_count_by_area_id(area_id)
+            if result is not None:
+                return self.send_json(result)
         else:
             self.error(404, "Not Found")
+
+        self.error(500, "Error processing request")
+
 
 
 

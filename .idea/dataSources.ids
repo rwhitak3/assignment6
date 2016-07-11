@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Sqlite (Xerial) - measures.sqlite [2]" uuid="1f4721ce-68e8-42d1-8c57-07890b1df8eb">
+    <database-info product="SQLite" version="3.8.11" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native"/>
+    <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed"/>
+    <schema name="" catalog=""/>
+    <table name="area" schema="" catalog="" type="TABLE">
+      <column name="area_id" sqlType="INT" precision="0" scale="-1" nullable="true" jdbcType="4"/>
+      <column name="name" sqlType="VARCHAR(50)" precision="0" scale="-1" nullable="true" jdbcType="12"/>
+      <column name="longitude" sqlType="DECIMAL" precision="0" scale="-1" nullable="true" jdbcType="6"/>
+      <column name="latitude" sqlType="DECIMAL" precision="0" scale="-1" nullable="true" jdbcType="6"/>
+      <primary-key columns="area_id"/>
+    </table>
+    <table name="category" schema="" catalog="" type="TABLE">
+      <column name="category_id" sqlType="INT" precision="0" scale="-1" nullable="true" jdbcType="4"/>
+      <column name="name" sqlType="VARCHAR(50)" precision="0" scale="-1" nullable="true" jdbcType="12"/>
+      <column name="description" sqlType="VARCHAR" precision="0" scale="-1" nullable="true" jdbcType="12"/>
+      <primary-key columns="category_id"/>
+    </table>
+    <table name="category_area" schema="" catalog="" type="TABLE">
+      <column name="category_id" sqlType="INT" precision="0" scale="-1" nullable="true" jdbcType="4"/>
+      <column name="area_id" sqlType="INT" precision="0" scale="-1" nullable="true" jdbcType="4"/>
+      <primary-key columns="category_id,area_id"/>
+      <foreign-key name="#FAKE_category_area_1" columns="area_id" ref-table="area" ref-schema="" ref-catalog="" ref-columns="area_id" update-rule="3" delete-rule="3" deferrability="1"/>
+      <foreign-key name="#FAKE_category_area_2" columns="category_id" ref-table="category" ref-schema="" ref-catalog="" ref-columns="category_id" update-rule="3" delete-rule="3" deferrability="1"/>
+    </table>
+    <table name="location" schema="" catalog="" type="TABLE">
+      <column name="location_id" sqlType="INT" precision="0" scale="-1" nullable="true" jdbcType="4"/>
+      <column name="name" sqlType="VARCHAR(50)" precision="0" scale="-1" nullable="true" jdbcType="12"/>
+      <column name="altitude" sqlType="DECIMAL" precision="0" scale="-1" nullable="true" jdbcType="6"/>
+      <column name="location_area" sqlType="INT" precision="0" scale="-1" nullable="true" jdbcType="4"/>
+      <primary-key columns="location_id"/>
+      <foreign-key name="#FAKE_location_1" columns="location_area" ref-table="area" ref-schema="" ref-catalog="" ref-columns="area_id" update-rule="3" delete-rule="3" deferrability="1"/>
+    </table>
+    <table name="measurement" schema="" catalog="" type="TABLE">
+      <column name="measurement_id" sqlType="INT" precision="0" scale="-1" nullable="true" jdbcType="4"/>
+      <column name="value" sqlType="DECIMAL" precision="0" scale="-1" nullable="true" jdbcType="6"/>
+      <column name="measurement_location" sqlType="INT" precision="0" scale="-1" nullable="true" jdbcType="4"/>
+      <primary-key columns="measurement_id"/>
+      <foreign-key name="#FAKE_measurement_1" columns="measurement_location" ref-table="location" ref-schema="" ref-catalog="" ref-columns="location_id" update-rule="3" delete-rule="3" deferrability="1"/>
+    </table>
+  </data-source>
+</component>
