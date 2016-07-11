@@ -1,0 +1,159 @@
+2016-07-11 14:48:56,784 - server - INFO - Starting Server
+2016-07-11 14:49:18,514 - server - INFO - Starting Server
+2016-07-11 14:50:49,589 - server - INFO - Starting Server
+2016-07-11 14:51:12,172 - server - INFO - Starting Server
+2016-07-11 14:53:05,001 - server - INFO - Starting Server
+2016-07-11 14:53:21,917 - server - INFO - Starting Server
+2016-07-11 14:53:31,841 - server - INFO - Received Request from ('127.0.0.1', 34468)
+2016-07-11 14:53:31,842 - server - INFO - Path = /hhha
+2016-07-11 14:53:31,842 - server - INFO - Received Request from ('127.0.0.1', 34469)
+2016-07-11 14:53:31,842 - server - INFO - Path = /hhha
+2016-07-11 14:53:31,843 - server - INFO - Received Request from ('127.0.0.1', 34470)
+2016-07-11 14:53:31,843 - server - INFO - Path = /hhha
+2016-07-11 14:53:31,844 - server - INFO - Received Request from ('127.0.0.1', 34471)
+2016-07-11 14:53:31,844 - server - INFO - Path = /hhha
+2016-07-11 14:53:31,844 - server - INFO - Received Request from ('127.0.0.1', 34472)
+2016-07-11 14:53:31,844 - server - INFO - Path = /hhha
+2016-07-11 14:53:31,845 - server - INFO - Received Request from ('127.0.0.1', 34473)
+2016-07-11 14:53:31,845 - server - INFO - Path = /hhha
+2016-07-11 15:02:00,828 - server - INFO - Starting Server
+2016-07-11 15:02:27,470 - server - INFO - Received Request from ('127.0.0.1', 34498)
+2016-07-11 15:02:27,470 - server - INFO - Path = /areas/
+2016-07-11 15:02:27,471 - server - INFO - Received Request from ('127.0.0.1', 34499)
+2016-07-11 15:02:27,471 - server - INFO - Path = /areas/
+2016-07-11 15:02:27,472 - server - INFO - Received Request from ('127.0.0.1', 34500)
+2016-07-11 15:02:27,472 - server - INFO - Path = /areas/
+2016-07-11 15:02:27,473 - server - INFO - Received Request from ('127.0.0.1', 34501)
+2016-07-11 15:02:27,473 - server - INFO - Path = /areas/
+2016-07-11 15:02:27,473 - server - INFO - Received Request from ('127.0.0.1', 34502)
+2016-07-11 15:02:27,473 - server - INFO - Path = /areas/
+2016-07-11 15:02:27,474 - server - INFO - Received Request from ('127.0.0.1', 34503)
+2016-07-11 15:02:27,474 - server - INFO - Path = /areas/
+2016-07-11 15:02:58,193 - server - INFO - Received Request from ('127.0.0.1', 34504)
+2016-07-11 15:02:58,193 - server - INFO - Path = /area
+2016-07-11 15:02:58,194 - server - INFO - Received Request from ('127.0.0.1', 34505)
+2016-07-11 15:02:58,194 - server - INFO - Path = /area
+2016-07-11 15:02:58,194 - server - INFO - Received Request from ('127.0.0.1', 34506)
+2016-07-11 15:02:58,195 - server - INFO - Path = /area
+2016-07-11 15:02:58,195 - server - INFO - Received Request from ('127.0.0.1', 34507)
+2016-07-11 15:02:58,195 - server - INFO - Path = /area
+2016-07-11 15:02:58,196 - server - INFO - Received Request from ('127.0.0.1', 34508)
+2016-07-11 15:02:58,196 - server - INFO - Path = /area
+2016-07-11 15:02:58,203 - server - INFO - Received Request from ('127.0.0.1', 34509)
+2016-07-11 15:02:58,203 - server - INFO - Path = /area
+2016-07-11 15:04:05,726 - server - INFO - Starting Server
+2016-07-11 15:04:12,672 - server - INFO - Starting Server
+2016-07-11 15:04:17,923 - server - INFO - Received Request from ('127.0.0.1', 34512)
+2016-07-11 15:04:17,923 - server - INFO - Path = /area
+2016-07-11 15:04:17,923 - server - INFO - Received Request from ('127.0.0.1', 34513)
+2016-07-11 15:04:17,923 - server - INFO - Path = /area
+2016-07-11 15:04:17,924 - server - INFO - Received Request from ('127.0.0.1', 34514)
+2016-07-11 15:04:17,924 - server - INFO - Path = /area
+2016-07-11 15:04:17,925 - server - INFO - Received Request from ('127.0.0.1', 34515)
+2016-07-11 15:04:17,925 - server - INFO - Path = /area
+2016-07-11 15:04:17,925 - server - INFO - Received Request from ('127.0.0.1', 34516)
+2016-07-11 15:04:17,925 - server - INFO - Path = /area
+2016-07-11 15:04:17,926 - server - INFO - Received Request from ('127.0.0.1', 34517)
+2016-07-11 15:04:17,926 - server - INFO - Path = /area
+2016-07-11 15:06:27,693 - server - INFO - Starting Server
+2016-07-11 15:06:31,988 - server - INFO - Received Request from ('127.0.0.1', 34520)
+2016-07-11 15:06:31,988 - server - INFO - Path = /area
+2016-07-11 15:06:32,074 - server - INFO - Received Request from ('127.0.0.1', 34521)
+2016-07-11 15:06:32,074 - server - INFO - Path = /favicon.ico
+2016-07-11 15:06:32,109 - server - INFO - Received Request from ('127.0.0.1', 34522)
+2016-07-11 15:06:32,109 - server - INFO - Path = /favicon.ico
+2016-07-11 15:12:10,272 - server - INFO - Starting Server
+2016-07-11 15:12:15,952 - server - INFO - Received Request from ('127.0.0.1', 34533)
+2016-07-11 15:12:15,953 - server - INFO - Path = /area
+2016-07-11 15:14:05,862 - server - INFO - Starting Server
+2016-07-11 15:14:09,377 - server - INFO - Received Request from ('127.0.0.1', 34537)
+2016-07-11 15:14:09,377 - server - INFO - Path = /area
+2016-07-11 15:14:09,377 - server - DEBUG - Asked for list of areas
+2016-07-11 15:14:09,398 - server - INFO - Received Request from ('127.0.0.1', 34538)
+2016-07-11 15:14:09,398 - server - INFO - Path = /area
+2016-07-11 15:14:09,398 - server - DEBUG - Asked for list of areas
+2016-07-11 15:14:09,403 - server - INFO - Received Request from ('127.0.0.1', 34539)
+2016-07-11 15:14:09,403 - server - INFO - Path = /area
+2016-07-11 15:14:09,403 - server - DEBUG - Asked for list of areas
+2016-07-11 15:14:09,416 - server - INFO - Received Request from ('127.0.0.1', 34540)
+2016-07-11 15:14:09,416 - server - INFO - Path = /area
+2016-07-11 15:14:09,416 - server - DEBUG - Asked for list of areas
+2016-07-11 15:14:09,418 - server - INFO - Received Request from ('127.0.0.1', 34541)
+2016-07-11 15:14:09,418 - server - INFO - Path = /area
+2016-07-11 15:14:09,418 - server - DEBUG - Asked for list of areas
+2016-07-11 15:14:09,420 - server - INFO - Received Request from ('127.0.0.1', 34542)
+2016-07-11 15:14:09,420 - server - INFO - Path = /area
+2016-07-11 15:14:09,420 - server - DEBUG - Asked for list of areas
+2016-07-11 15:16:57,804 - server - INFO - Received Request from ('127.0.0.1', 34550)
+2016-07-11 15:16:57,804 - server - INFO - Path = /area
+2016-07-11 15:16:57,804 - server - DEBUG - Asked for list of areas
+2016-07-11 15:17:22,925 - server - INFO - Starting Server
+2016-07-11 15:17:25,344 - server - INFO - Received Request from ('127.0.0.1', 34551)
+2016-07-11 15:17:25,344 - server - INFO - Path = /area
+2016-07-11 15:17:25,344 - server - DEBUG - Asked for list of areas
+2016-07-11 15:18:32,736 - server - INFO - Starting Server
+2016-07-11 15:18:35,227 - server - INFO - Received Request from ('127.0.0.1', 34556)
+2016-07-11 15:18:35,227 - server - INFO - Path = /area
+2016-07-11 15:18:35,228 - server - DEBUG - Asked for list of areas
+2016-07-11 15:19:05,225 - server - INFO - Starting Server
+2016-07-11 15:19:07,022 - server - INFO - Received Request from ('127.0.0.1', 34557)
+2016-07-11 15:19:07,022 - server - INFO - Path = /area
+2016-07-11 15:19:07,022 - server - DEBUG - Asked for list of areas
+2016-07-11 15:19:07,022 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 15:20:09,863 - server - INFO - Starting Server
+2016-07-11 15:20:13,388 - server - INFO - Received Request from ('127.0.0.1', 34562)
+2016-07-11 15:20:13,388 - server - INFO - Path = /area
+2016-07-11 15:20:13,389 - server - DEBUG - Asked for list of areas
+2016-07-11 15:20:13,389 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 15:20:23,836 - server - INFO - Received Request from ('127.0.0.1', 34563)
+2016-07-11 15:20:23,836 - server - INFO - Path = /area
+2016-07-11 15:20:23,836 - server - DEBUG - Asked for list of areas
+2016-07-11 15:20:23,836 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 15:20:25,980 - server - INFO - Received Request from ('127.0.0.1', 34564)
+2016-07-11 15:20:25,980 - server - INFO - Path = /area
+2016-07-11 15:20:25,980 - server - DEBUG - Asked for list of areas
+2016-07-11 15:20:25,980 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 15:20:32,093 - server - INFO - Received Request from ('127.0.0.1', 34565)
+2016-07-11 15:20:32,093 - server - INFO - Path = /area
+2016-07-11 15:20:32,093 - server - DEBUG - Asked for list of areas
+2016-07-11 15:20:32,093 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 15:22:23,865 - server - INFO - Starting Server
+2016-07-11 15:22:26,589 - server - INFO - Received Request from ('127.0.0.1', 34568)
+2016-07-11 15:22:26,589 - server - INFO - Path = /area
+2016-07-11 15:22:26,589 - server - DEBUG - Asked for list of areas
+2016-07-11 15:22:26,589 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 15:22:34,124 - server - INFO - Received Request from ('127.0.0.1', 34569)
+2016-07-11 15:22:34,124 - server - INFO - Path = /area
+2016-07-11 15:22:34,124 - server - DEBUG - Asked for list of areas
+2016-07-11 15:22:34,124 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 15:25:29,220 - server - INFO - Starting Server
+2016-07-11 15:25:33,639 - server - INFO - Received Request from ('127.0.0.1', 34576)
+2016-07-11 15:25:33,639 - server - INFO - Path = /area
+2016-07-11 15:25:33,639 - server - DEBUG - Asked for list of areas
+2016-07-11 15:25:33,639 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
+2016-07-11 15:30:55,621 - server - INFO - Starting Server
+2016-07-11 15:30:59,977 - server - INFO - Received Request from ('127.0.0.1', 34585)
+2016-07-11 15:30:59,978 - server - INFO - Path = /area
+2016-07-11 15:30:59,979 - server - INFO - Received Request from ('127.0.0.1', 34586)
+2016-07-11 15:30:59,979 - server - INFO - Path = /area
+2016-07-11 15:30:59,980 - server - INFO - Received Request from ('127.0.0.1', 34587)
+2016-07-11 15:30:59,980 - server - INFO - Path = /area
+2016-07-11 15:30:59,981 - server - INFO - Received Request from ('127.0.0.1', 34588)
+2016-07-11 15:30:59,981 - server - INFO - Path = /area
+2016-07-11 15:30:59,982 - server - INFO - Received Request from ('127.0.0.1', 34589)
+2016-07-11 15:30:59,982 - server - INFO - Path = /area
+2016-07-11 15:30:59,986 - server - INFO - Received Request from ('127.0.0.1', 34590)
+2016-07-11 15:30:59,986 - server - INFO - Path = /area
+2016-07-11 15:41:29,448 - server - INFO - Starting Server
+2016-07-11 15:41:32,699 - server - INFO - Received Request from ('127.0.0.1', 34609)
+2016-07-11 15:41:32,699 - server - INFO - Path = /area
+2016-07-11 15:46:58,309 - server - INFO - Starting Server
+2016-07-11 15:47:01,691 - server - INFO - Received Request from ('127.0.0.1', 34620)
+2016-07-11 15:47:01,691 - server - INFO - Path = /area
+2016-07-11 15:47:34,115 - server - INFO - Starting Server
+2016-07-11 15:47:36,699 - server - INFO - Received Request from ('127.0.0.1', 34621)
+2016-07-11 15:47:36,699 - server - INFO - Path = /area
+2016-07-11 15:48:24,483 - server - INFO - Starting Server
+2016-07-11 15:48:27,355 - server - INFO - Received Request from ('127.0.0.1', 34624)
+2016-07-11 15:48:27,355 - server - INFO - Path = /area
+2016-07-11 15:48:27,356 - server - DEBUG - Sending Data [[1, "Grand Canyon", 20, 30], [2, "Boca Raton", 40, 50], [3, "Kennesaw", 60, 70], [4, "Mount Hood", 80, 90], [5, "Mount Rainer", 46.5, 121.5], [6, "Saint Olaf", 44, 93], [7, "Mount St. Helens", 46, 122]]
